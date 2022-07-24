@@ -1,0 +1,45 @@
+header{
+    color: palevioletred;
+    padding: 20px;
+}
+
+#over{
+    background-color:red;
+    border: medium solid yellow;
+    height: 30vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+}
+#box{
+    border:medium solid yellow;
+    width: 40%;
+    height: 20vh;
+    padding: 20px;
+
+}
+#bug{
+    border:medium solid yellow;
+    width: 20%;
+    height: 20vh;
+    padding: 20px;
+
+}
+
+#fox{
+    background-color:brown;
+    border: medium solid yellow;
+    height: 40vh;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    color: white;
+}
+.bus{
+    border:medium solid yellow;
+    width: 20%;
+    height: 30vh;
+    padding: 20px;
+    margin: 5px;
+}
